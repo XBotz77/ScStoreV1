@@ -51,15 +51,15 @@ autocomposing = false
 autorecording = false
 //----
 
-let owner = '6282293295376' // NO OWNER
-let botname = '© Abil Botz' // NAMA BOT
-let ownername = '© Abil Ganz' // NAMA OWNER
-let fake = '© Abil Botz' // FAKENYA
-let yt = 'https://youtube.com/channel/UCJPqI5eVhKPXPL2V8y6pIDA' // YT LU
-let gopay = 'http://bit.ly/qrgopay' // QRGOPAY / NO GOPAY
-let dana = '-' // QRDANA / NO DANA
-let ovo = 'http://bit.ly/qrovo' // QROVO / NO OVO
-let pulsa = '082293295376' // PULSA
+let owner = '6285822558496'
+let botname = '© Saleh Botz'
+let ownername = '© Saleh Ganz'
+let fake = '© Saleh Botz'
+let yt = 'https://youtube.com/channel/UCpAjGdtIz8ZEO74mt8LjDOA'
+let gopay = '085822558496'
+let dana = '085845493984'
+let ovo = 'http://bit.ly/qrovo'
+let pulsa = '085822558496'
 
 const fakeimage = fs.readFileSync ('./media/dhani.jpg')
 const fakedhani = fs.readFileSync ('./media/thumb.jpg')
@@ -482,7 +482,7 @@ menu =
 => ORTU GW
 => ABIL BOTZ
 => BOTZ DHANI ?
-=> ${ownername} ( OWNER BOT )
+=> SALEH DIKSS
 => ALL MY SUBSCRIBER
 _________________________________`
 teks =
