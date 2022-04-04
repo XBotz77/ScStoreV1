@@ -761,7 +761,7 @@ break
 
 case 'bayar':
 case 'payment':
-gambar = fs.readFileSync('./media/qr.jpg')
+gambar = fs.readFileSync('./media/donasijpg.jpg')
 menunya = `*「 PAYMENT 」*
 
 • *Gopay : ${gopay}*
