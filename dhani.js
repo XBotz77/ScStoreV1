@@ -193,7 +193,7 @@ videoMessage: mhan.message.videoMessage,
 contentText: text1,
 footerText: desc1,
 buttons: but,
-headerType: 5
+headerType: 5ahdghad
 }
 Dhani.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 }
